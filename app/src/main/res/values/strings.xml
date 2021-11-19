@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BMI Analyzer</string>
+    <string name="logo_image">LogoImage</string>
+    <string name="next"><u>Next</u></string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="have_account">if you already have an account,log in</string>
+    <string name="btn_login">LOG IN</string>
+    <string name="btn_loginfill">LOG IN</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="no_account">You do not have account ?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="you_don_t_have_an_account">You Do not Have An Account ?</string>
+    <string name="sign_Up">Sign up</string>
+    <string name="log_in">Log In</string>
+    <string name="log_in">Log In</string>
+    <string name="create">Create</string>
+    <string name="re_password">Re-Password</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="you_have_an_account">You have an account?</string>
+
+</resources>
